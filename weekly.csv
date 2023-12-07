@@ -1,0 +1,61 @@
+,DMT_price
+DMT_price,1.0
+volumeETH,0.863449582774282
+volumeUSD,0.8407810253775317
+daily_pct_change_volumeETH,0.2998288080619286
+pass_volumeETH,0.7172651961577745
+pass_volumeUSD,0.6758317329358724
+daily_pct_change_pass_volumeETH,-0.2668697883705113
+gift_volumeETH,0.9267129927388396
+gift_volumeUSD,0.9232090693371192
+daily_pct_change_gift_volumeETH,0.9008323337180535
+totalFeesETH,0.9458623304661109
+protocolFeesETH,0.9186759933008174
+protocolFeesUSD,0.9039019471941782
+Protocol Earnings - Trading Fees (Ξ),0.7226316371593234
+Protocol Earnings - Trading Fees ($),0.6816315383951976
+Protocol Earnings - Tip Fees (Ξ),0.9267129927388394
+Protocol Earnings - Tip Fees ($),0.9232090693371191
+streamerFeesETH,0.9404370453124126
+streamerFeesUSD,0.9352489699372326
+Streamer Earnings - Trading Fees (Ξ),0.7172651961577745
+Streamer Earnings - Trading Fees ($),0.6758317329358723
+Streamer Earnings - Tips (Ξ),0.9267129927388398
+Streamer Earnings - Tips ($),0.9232090693371192
+Referral Earnings (Ξ),0.4775219114279109
+Referral Earnings ($),0.4201730517839236
+buyVolumeETH,0.17254022528208282
+buyVolumeUSD,0.08621186215016984
+daily_pct_change_buyVolumeETH,-0.5111893170676571
+sellVolumeETH,0.8989566021920101
+sellVolumeUSD,0.8867756031751922
+daily_pct_change_sellVolumeETH,0.6312913667833218
+buy_sell_ratio,-0.8374374328385841
+numberOfTrades,0.5848268539291365
+numberOfPassesTraded,0.542314769777221
+cumulative_volumeETH,-0.8668423448129181
+cumulative_volumeUSD,-0.8620029564938065
+cumulative_buyVolumeETH,-0.8553819929988945
+cumulative_sellVolumeETH,-0.8775830986000858
+Cumulative Protocol Earnings (Ξ),-0.8662116492785343
+Cumulative Protocol Earnings ($),-0.8612857557847975
+Cum. Protocol Earnings from Trading Fees (Ξ),-0.8671110852847336
+Cum. Protocol Earnings from Trading Fees ($),-0.8623355872391255
+Cum. Protocol Earnings from Tip Fees (Ξ),-0.8525056588327576
+Cum. Protocol Earnings from Tip Fees ($),-0.8459806318757189
+Cumulative Streamer Earnings (Ξ),-0.8616637807010732
+Cumulative Streamer Earnings ($),-0.8561124919512295
+Cum. Streamer Earnings from Trading Fees (Ξ),-0.8672924916628619
+Cum. Streamer Earnings from Trading Fees ($),-0.8625295890106995
+Cum. Streamer Earnings from Tips (Ξ),-0.8525056588327579
+Cum. Streamer Earnings from Tips ($),-0.8459806318757186
+Cumulative Referral Earnings (Ξ),-0.8723421127166753
+Cumulative Referral Earnings ($),-0.8679048807791787
+cumulative_numberOfPassesTraded,-0.8028687378897597
+daily_uniq_holders,0.8184628767568547
+sankodau_play,0.007455329742251779
+sankodau_users,0.8461102676317778
+rev,0.8267464799001087
+bu,-0.6672409639199689
+cumuulative_revenue,-0.9211291076771738
+cumuulative_burn,-0.37546209636141925
